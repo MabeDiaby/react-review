@@ -1,8 +1,11 @@
+## SEIR 1130, January 11, 2021
+
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # React Review
 
 Use this repository to review the key topics covered in this unit.
+You may want to keep this code as a reference to help in your P2's and future React projects!
 
 ## Prerequisites
 
